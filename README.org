@@ -1,0 +1,13 @@
+#+title: Rpi Pico Wattmeter Hardware
+
+This repository contains the PCB design of the wattmeter.
+
+General connections with Raspberry Pi 4B and data collection PC.
+
+[[./images/watt_mod.png]]
+
+3d view of the board
+[[./images/RpiPicoPowerMeter.png]]
+
+Physical board
+[[./images/physical.jpeg]]
